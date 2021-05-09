@@ -1,8 +1,8 @@
 {
-  "name": "js-learning",
-  "version": "1.0.0",
-  "description": "Start JS projects with this",
-  "repository": "github:keybits/js-learning",
+  "name": "js-starter",
+  "version": "0.0.1",
+  "description": "Simple JS project starter",
+  "repository": "github:keybits/js-starter",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,6 +13,7 @@
   "devDependencies": {
     "eslint": "7.26.0",
     "eslint-config-airbnb-base": "14.2.1",
-    "eslint-plugin-import": "2.22.1"
+    "eslint-plugin-import": "2.22.1",
+    "prettier": "2.2.1"
   }
 }
