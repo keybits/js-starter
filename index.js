@@ -1,4 +1,4 @@
-// a little sample file
+// A little sample file
 const tom = 20;
 function f() {
   const x = 'outer';
