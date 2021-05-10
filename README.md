@@ -2,8 +2,13 @@
 
 This is a very simple way to start a JS project with linting and formatting in VSCode:
 
-- ESLint with airbnb JS style guide
-- Prettier
-- Uses `eslint-config-prettier` to make ESLint ignore formatting rules
+- ESLint with airbnb JS style guide for linting
+- Prettier configuration for formatting
+- Uses `eslint-config-prettier` to make ESLint ignore formatting rules handled by Prettier
 
-Make sure that Prettier and ESLint VSCode plugins are installed!
+## Instructions
+
+1. Make sure node is installed
+1. Make sure that Prettier and ESLint VSCode plugins are installed!
+1. Clone this repo and `cd` into the directory
+1. Run `npm install`
