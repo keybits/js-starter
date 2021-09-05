@@ -13,3 +13,7 @@ This is a very simple way to start a JS project with linting and formatting in V
 1. Clone this repo and `cd` into the directory
 1. Run `npm install`
 1. Start writing JavaScript!
+
+## TODO
+
+1. Update and use
